@@ -3,7 +3,6 @@
 run your code ######
 ##You can specify the version using '=='. For example:
 numpy==1.21.2
-opencv-python
 numpy
-Pillow
-ipywidgets
+matplotlib
+imageio
