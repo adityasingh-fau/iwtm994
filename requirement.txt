@@ -5,4 +5,3 @@ run your code ######
 numpy==1.21.2
 numpy
 matplotlib
-imageio
