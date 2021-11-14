@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib as PLT
+import matplotlib.pyplot as PLT
 import imageio as io
 
 def imshow(X, resize=None): 
